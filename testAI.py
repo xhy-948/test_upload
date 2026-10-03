@@ -9,7 +9,7 @@ from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
 import numpy as np
 
-
+## ai test
 class ColorReplaceApp:
     def __init__(self, root):
         self.root = root
@@ -336,4 +336,5 @@ def main():
 
 
 if __name__ == "__main__":
+    main()
     main()
